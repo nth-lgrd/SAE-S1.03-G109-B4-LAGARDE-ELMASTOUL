@@ -1,4 +1,4 @@
-/* --- Thème Premium Dark & Blue --- */
+
 :root {
     --primary: #0d6efd;
     --primary-glow: rgba(13, 110, 253, 0.5);
@@ -121,4 +121,5 @@ footer {
 
 main {
     animation: fadeInUp 0.8s ease-out;
+
 }
